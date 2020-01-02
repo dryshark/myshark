@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/login-microservice.iml" filepath="$PROJECT_DIR$/.idea/login-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myshark.iml" filepath="$PROJECT_DIR$/.idea/myshark.iml" />
     </modules>
   </component>
 </project>
